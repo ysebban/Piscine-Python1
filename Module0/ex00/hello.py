@@ -1,7 +1,7 @@
 def main():
     ft_list = ["Hello", "tata!"]  # world
     ft_tuple = ("Hello", "toto!")  # country
-    ft_set = {"Hello", "tutu!"}  # city 
+    ft_set = {"Hello", "tutu!"}  # city
     ft_dict = {"Hello": "titi!"}  # campus
 
     ft_list[1] = "World!"
